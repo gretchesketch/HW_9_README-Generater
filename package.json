@@ -1,0 +1,23 @@
+{
+  "name": "hw_9_readme-generater",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gretchesketch/HW_9_README-Generater.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gretchesketch/HW_9_README-Generater/issues"
+  },
+  "homepage": "https://github.com/gretchesketch/HW_9_README-Generater#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
